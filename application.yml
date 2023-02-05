@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: CLOUD-SERVICE
-
 eureka:
   instance:
     hostname: localhost
